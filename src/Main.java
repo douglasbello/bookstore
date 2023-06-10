@@ -1,3 +1,4 @@
+import entities.Customer;
 
 public class Main
 {
